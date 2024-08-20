@@ -6,7 +6,7 @@
   <br><br>
   <div>
     <a href="https://github.com/otacosta21">
-    
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otacosta21&show_icons=true&theme=dark#gh-dark-mode-only">
   </div>
       <br>
   <div>
