@@ -6,7 +6,11 @@
   <br><br>
   <div>
     <a href="https://github.com/otacosta21">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otacosta21&show_icons=true&theme=dark#gh-dark-mode-only">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otacosta21&show_icons=true&theme=dark#gh-dark-mode-only(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otacosta21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+
+###
   </div>
       <br>
   <div>
