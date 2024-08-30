@@ -5,18 +5,11 @@
 - Pronomes: Ele/dele
   <br><br>
   <div>
-    <a href="https://github.com/otacosta21">
+  <a href="https://github.com/otacosta21">
   <img src="https://github-readme-stats.vercel.app/api?username=otacosta21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otacosta21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-
-</div>
-
-###
-
-
-  </div>
-      <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otacosta21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ </div>
+ 
   <div>
   <img align="center" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="120" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
